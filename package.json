@@ -55,7 +55,7 @@
 		"express-rate-limit": "^7.4.0",
 		"express-session": "^1.17.3",
 		"jayson": "^4.1.0",
-		"lru-cache": "^10.0.0",
+		"lru-cache": "^11.0.2",
 		"markdown-it": "^14.0.0",
 		"md5": "^2.3.0",
 		"memorystore": "^1.6.7",
