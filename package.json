@@ -64,7 +64,7 @@
 		"moment-duration-format": "^2.3.2",
 		"morgan": "^1.10.0",
 		"on-headers": "^1.0.2",
-		"pidusage": "^3.0.2",
+		"pidusage": "^4.0.1",
 		"pug": "^3.0.2",
 		"qrcode": "^1.5.3",
 		"redis": "^4.6.6",
