@@ -50,7 +50,7 @@
 		"decimal.js": "^10.6.0",
 		"dotenv": "^13.0.1",
 		"electrum-client": "github:janoside/electrum-client",
-		"express": "^4.21.2",
+		"express": "^4.22.0",
 		"express-async-handler": "^1.2.0",
 		"express-rate-limit": "^8.0.1",
 		"express-session": "^1.18.2",
