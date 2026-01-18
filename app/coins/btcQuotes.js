@@ -590,7 +590,7 @@ module.exports = {
 		},
 		{
 			// 83
-			text: "I don't think we can affort two proof-of-work systems on this planet, but I think we might only need one.",
+			text: "I don't think we can afford two proof-of-work systems on this planet, but I think we might only need one.",
 			speaker: "Andreas Antonopolous",
 			url: "https://youtu.be/2T0OUIW89II?t=297",
 			date: "2017-12-12"
@@ -790,6 +790,20 @@ module.exports = {
 			speaker: "Saifedean Ammous",
 			url: "https://x.com/pete_rizzo_/status/1868295219403264368",
 			date: "2017-12-08"
+		},
+		{
+			// 112
+			text: "Bitcoin has a couple of things going for it: it is distributed, with no single point of failure, no 'mint', no company with officers that can be subpoenaed and arrested and shut down.",
+			speaker: "Hal Finney",
+			url: "https://x.com/pete_rizzo_/status/1882775493025714514",
+			date: "2009-01-24"
+		},
+		{
+			// 113
+			text: "We can't achieve human rights without financial freedom, and we can't achieve financial freedom without Bitcoin.",
+			speaker: "Alex Gladstein",
+			url: "https://x.com/gladstein/status/1886491858907599224",
+			date: "2025-02-23"
 		},
 
 		/*{

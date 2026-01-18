@@ -37,6 +37,11 @@ module.exports = {
 			desc: "On this day in 2013, Ross Ulbricht was captured and imprisoned for his role in creating The Silk Road website. He was given two life sentences for non-violent crimes. Fighting for Ross's freedom is a cause supported by many Bitcoiners."
 		},
 		{
+			name: "Ross Pardon Day",
+			date: "2025-01-21",
+			desc: "On this day in 2025, Ross Ulbricht was pardoned by just-inaugurated President Donald Trump. Ross was captured on October 1, 2013 (\"Free Ross Day\") and in custody for over 11 years, 3 months, serving two life sentences without parole for his role in creating and running the Silk Road."
+		},
+		{
 			name: "BearWhale Slay Day",
 			date: "2014-10-06",
 			desc: "On this day in 2014, a bitcoin whale posted a 30,000 BTC sell wall, resulting in an epic skirmish between hodlers and the BearWhale. Over the course of six hours, the price stalled at 300 USD until all of the coins sold off and the BearWhale was defeated. You can watch the battle <a href='https://twitter.com/DocumentingBTC/status/1364230687105167362?s=20The'>here</a>."
@@ -59,7 +64,7 @@ module.exports = {
 		{
 			name: "Proof of Keys Day",
 			date: "2019-01-03",
-			desc: "On this day in 2019, to celebrate Bitcoin's 10th Birthday, Trace Mayer started an annual Proof-of-Keys Celebration. Participats declare monetary sovereignty by withdrawing their BTC into their own custody. Not your keys, not your bitcoin! You can read Trace Mayer's original tweet <a href='https://twitter.com/TraceMayer/status/1071870548421066753'>here</a>."
+			desc: "On this day in 2019, to celebrate Bitcoin's 10th Birthday, Trace Mayer started an annual Proof-of-Keys Celebration. Participants declare monetary sovereignty by withdrawing their BTC into their own custody. Not your keys, not your bitcoin! You can read Trace Mayer's original tweet <a href='https://twitter.com/TraceMayer/status/1071870548421066753'>here</a>."
 		},
 		{
 			name: "Genesis Transaction Day",
@@ -129,12 +134,12 @@ module.exports = {
 		{
 			name: "Goodbye Satoshi Day",
 			date: "2010-12-12",
-			desc: "On this day in 2010, Satoshi sent his final message on the BitcoinTalk forum. Then, he logged off, never to return."
+			desc: "On this day in 2010, Satoshi sent <a href='https://bitcointalk.org/index.php?topic=2228.0'>his final message on the BitcoinTalk forum</a>. Then, he logged off, never to return."
 		},
 		{
 			name: "Satoshi's Birthday",
 			date: "1975-04-05",
-			desc: "Satoshi Nakamoto listed their birthday as April 5, 1975. Many have speculated about symbolic significance of this date, with some identifying April 5 as the date that FDR signed <a href='https://en.wikipedia.org/wiki/Executive_Order_6102'>Executive Order 6102</a>, and 1975 as the year that Americans were legally allowed to old gold again, after Nixon's 1971 ban."
+			desc: "Satoshi Nakamoto listed their birthday as April 5, 1975. Many have speculated about symbolic significance of this date, with some identifying April 5 as the date that FDR signed <a href='https://en.wikipedia.org/wiki/Executive_Order_6102'>Executive Order 6102</a>, and 1975 as the year that Americans were legally allowed to own gold again, after Nixon's 1971 ban."
 		},
 		{
 			name: "Bitcoin.org Registration Day",
