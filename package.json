@@ -38,7 +38,7 @@
 		"bech32": "2.0.0",
 		"bip32": "^4.0.0",
 		"bitcoinjs-lib": "^6.1.7",
-		"body-parser": "^2.2.0",
+		"body-parser": "^2.2.1",
 		"bootstrap": "^5.3.7",
 		"bs58check": "^4.0.0",
 		"chart.js": "^4.5.0",
