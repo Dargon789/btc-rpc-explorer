@@ -33,7 +33,7 @@
 	"dependencies": {
 		"@janoside/app-utils": "github:janoside/app-utils#ba4c23d3f",
 		"async": "^3.2.6",
-		"axios": "^1.12.0",
+		"axios": "^1.13.5",
 		"basic-auth": "^2.0.1",
 		"bech32": "2.0.0",
 		"bip32": "^4.0.0",
@@ -56,7 +56,7 @@
 		"express-session": "^1.18.2",
 		"jayson": "^4.2.0",
 		"lru-cache": "^10.4.3",
-		"markdown-it": "^14.1.0",
+		"markdown-it": "^14.1.1",
 		"md5": "^2.3.0",
 		"memorystore": "^1.6.7",
 		"meow": "^9.0.0",
